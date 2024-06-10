@@ -1,7 +1,7 @@
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/icon-settings.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/hljs.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/font.css);
-@import url(https://celestialreaver.github.io/BetterDiscord/themes/base/addons.css);
+@import url(https://raw.githubusercontent.com/alexzander700/BetterDiscord/main/Themes/base/hljs.css);
+@import url(https://raw.githubusercontent.com/alexzander700/BetterDiscord/main/Themes/base/font.css);
+@import url(https://raw.githubusercontent.com/alexzander700/BetterDiscord/main/Themes/base/addons.css);
 @import url(https://celestialreaver.github.io/BetterDiscord/themes/base/discard/specialColors.css);
 
 :root {
